@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers:
+      app: workspace:*
+    dependencies:
+      app: link:app
+
+  app:
+    specifiers: {}
+
+  dist:
+    specifiers: {}
